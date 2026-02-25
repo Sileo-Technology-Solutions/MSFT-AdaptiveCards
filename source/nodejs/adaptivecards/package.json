@@ -1,9 +1,9 @@
 {
-	"name": "@Sileo-Technology-Solutions/adaptivecards",
+	"name": "@sileo-technology-solutions/adaptivecards",
 	"version": "3.0.5-fix.1",
 	"publishConfig": {
     	"registry": "https://npm.pkg.github.com"
-  	}
+  	},
 	"description": "Adaptive Cards Javascript library for HTML Clients",
 	"author": "AdaptiveCards",
 	"license": "MIT",
